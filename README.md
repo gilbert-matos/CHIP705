@@ -1,7 +1,7 @@
 # CHIP705
 Python Notebook Final
 
-# Hospital Star Ratings and Patient Outcomes
+# CMS Hospital Star Ratings and Patient Outcomes
 
 # Overview
 This project examines whether a relationship exist between CMS hospital overall star ratings and patient outcome measures, specifcally 30-day mortality rates across U.S. hospitals. This idea stems from my previous CHIP 721: US Health Care Systems course I took my Fall 2025 semester and an overall focus on Electronic Health Records. This analysis explores how publically reported quality scores align with real patient outcomes derived from hospital EHR submissions.
